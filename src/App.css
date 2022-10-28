@@ -52,18 +52,13 @@ button:hover {
   height: 55px;
 }
 
-.selected{
-  text-decoration: ;
-}
+
 
 .NextQButton , .FinishButton {
   margin-top: 60px;
 }
 
-.NextQButton{
-text-decoration: line-through;
-text-decoration-color: lightseagreen;
-}
+
 
 .Quiz {
   width: 500px;
